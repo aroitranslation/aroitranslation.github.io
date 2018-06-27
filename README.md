@@ -1,1 +1,1 @@
-## Powered by Jekyll Now
+The Aroi Translation website, powered by Jekyll Now
